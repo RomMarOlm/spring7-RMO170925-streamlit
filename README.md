@@ -33,6 +33,8 @@ streamlit run app.py
 ☁️ App desplegada
 URL: https://spring7-rmo170925-streamlit.onrender.com
 
+![Vista de la aplicación](screenshot_app_sprint7.png)
+
 📦 Dependencias
 Definidas en requirements.txt:
 
